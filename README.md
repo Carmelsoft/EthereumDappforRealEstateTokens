@@ -174,6 +174,14 @@ The first part of the URL includes the Rinkeby contract address. The second part
 ![opensea](images/Opensea_3.PNG)
 
 
+## Other Information
+
+Here is some additional information about this project:
+
+Contract address on Rinkeby for CustomERC721Token: 0x32f2330b649A9bFCe5C90B2EaaF10dc8998cc03B
+
+Contract address on Rinkeby for SolnSquareVerifier: 0x010158ABf0Aa1ea7a96472f4EDc57Ecd7f4d0feB
+
 
 # Project Resources
 
