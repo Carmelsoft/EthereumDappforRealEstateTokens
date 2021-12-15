@@ -173,7 +173,7 @@ The first part of the URL includes the Rinkeby contract address. The second part
 
 ![opensea](images/Opensea_3.PNG)
 
-Below is an example of 2 of the tokenized images for sale:
+Below is an example of one of the tokenized images for sale:
 
 ![opensea](images/Opensea_6.PNG)
 
