@@ -153,7 +153,7 @@ Under the Mint function option, enter the your account address and a token id (f
 
 ![remix](images/Remix_4.PNG)
 
-Here is what it looks like in Etherscan. You can see that 4 tokens have been minted:
+Here is what it looks like in Etherscan. You can see that more than 5 tokens have been minted (under multiple owners):
 
 ![etherscan](images/Etherscan_2.PNG)
 
@@ -169,9 +169,25 @@ Once an account has been created on OpenSea, then the easiest way to assign toke
 https://testnets.opensea.io/assets/0x32f2330b649a9bfce5c90b2eaaf10dc8998cc03b/5
 ```
 
-The first part of the URL includes the Rinkeby contract address. The second part includes the token id. Below is a screenshot of a couple of tokenized images:
+The first part of the URL includes the Rinkeby contract address. The second part includes the token id. Below is a screenshot of the tokenized images in Opensea:
 
 ![opensea](images/Opensea_3.PNG)
+
+I sold 4 of the tokenized images to one test account (0xe77f929f093415d2d7221ec961394e8b33ddb066):
+
+![opensea](images/Opensea_4.PNG)
+
+Below is the Etherscan list of the 4 tokenized images transferred to this account (0xe77f929f093415d2d7221ec961394e8b33ddb066):
+
+![etherscan](images/Ethersan_3.PNG)
+
+I sold 1 more of the tokenized images to another test account (0xae3caf0d5463a719b478af997ac21a6f04d0499a):
+
+![opensea](images/Opensea_5.PNG)
+
+Below is the Etherscan list of the 1 tokenized image transferred to this account (0xae3caf0d5463a719b478af997ac21a6f04d0499a):
+
+![etherscan](images/Ethersan_4.PNG)
 
 ## Other Information
 
