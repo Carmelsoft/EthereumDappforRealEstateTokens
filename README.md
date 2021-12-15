@@ -173,7 +173,6 @@ The first part of the URL includes the Rinkeby contract address. The second part
 
 ![opensea](images/Opensea_3.PNG)
 
-
 ## Other Information
 
 Here is some additional information about this project:
@@ -182,6 +181,9 @@ Contract address on Rinkeby for CustomERC721Token: 0x32f2330b649A9bFCe5C90B2EaaF
 
 Contract address on Rinkeby for SolnSquareVerifier: 0x010158ABf0Aa1ea7a96472f4EDc57Ecd7f4d0feB
 
+Link to OpenSea repository: https://testnets.opensea.io/collection/udacity-capstone-project-ai2dhozlyu
+
+All ABI files are in the /eth-contracts/build/contracts subdirectory
 
 # Project Resources
 
