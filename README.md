@@ -179,7 +179,7 @@ I sold 4 of the tokenized images to one test account (0xe77f929f093415d2d7221ec9
 
 Below is the Etherscan list of the 4 tokenized images transferred to this account (0xe77f929f093415d2d7221ec961394e8b33ddb066):
 
-![etherscan](images/Ethersan_3.PNG)
+![etherscan](images/Etherscan_3.PNG)
 
 I sold 1 more of the tokenized images to another test account (0xae3caf0d5463a719b478af997ac21a6f04d0499a):
 
@@ -187,7 +187,7 @@ I sold 1 more of the tokenized images to another test account (0xae3caf0d5463a71
 
 Below is the Etherscan list of the 1 tokenized image transferred to this account (0xae3caf0d5463a719b478af997ac21a6f04d0499a):
 
-![etherscan](images/Ethersan_4.PNG)
+![etherscan](images/Etherscan_4.PNG)
 
 ## Other Information
 
