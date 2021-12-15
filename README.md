@@ -153,7 +153,7 @@ Under the Mint function option, enter the your account address and a token id (f
 
 ![remix](images/Remix_4.PNG)
 
-Here is what it looks like in Etherscan. You can see that more than 5 tokens have been minted (under multiple owners):
+Here is what it looks like in Etherscan. You can see that 5 tokens have been minted:
 
 ![etherscan](images/Etherscan_2.PNG)
 
@@ -166,28 +166,24 @@ On the item detail page on OpenSea, click "Sell". This will walk you through the
 Once an account has been created on OpenSea, then the easiest way to assign tokenized objects to it is by including the contract address and token id in the proper url. Here's an example of one:
 
 ```shell script
-https://testnets.opensea.io/assets/0x32f2330b649a9bfce5c90b2eaaf10dc8998cc03b/5
+https://testnets.opensea.io/assets/0x0EB9a81A0b0b540beEFc7a41F7c4Fe40488769Bd/1
 ```
 
 The first part of the URL includes the Rinkeby contract address. The second part includes the token id. Below is a screenshot of the tokenized images in Opensea:
 
 ![opensea](images/Opensea_3.PNG)
 
-I sold 4 of the tokenized images to one test account (0xe77f929f093415d2d7221ec961394e8b33ddb066):
+Below is an example of 2 of the tokenized images for sale:
+
+![opensea](images/Opensea_6.PNG)
+
+I sold 5 of the tokenized images to one test account (0xe77f929f093415d2d7221ec961394e8b33ddb066):
 
 ![opensea](images/Opensea_4.PNG)
 
-Below is the Etherscan list of the 4 tokenized images transferred to this account (0xe77f929f093415d2d7221ec961394e8b33ddb066):
+Below is the Etherscan list of the 5 tokenized images transferred to this account (0xe77f929f093415d2d7221ec961394e8b33ddb066):
 
 ![etherscan](images/Etherscan_3.PNG)
-
-I sold 1 more of the tokenized images to another test account (0xae3caf0d5463a719b478af997ac21a6f04d0499a):
-
-![opensea](images/Opensea_5.PNG)
-
-Below is the Etherscan list of the 1 tokenized image transferred to this account (0xae3caf0d5463a719b478af997ac21a6f04d0499a):
-
-![etherscan](images/Etherscan_4.PNG)
 
 ## Other Information
 
@@ -195,9 +191,9 @@ Here is some additional information about this project:
 
 Contract address on Rinkeby for CustomERC721Token: 0x32f2330b649A9bFCe5C90B2EaaF10dc8998cc03B
 
-Contract address on Rinkeby for SolnSquareVerifier: 0x010158ABf0Aa1ea7a96472f4EDc57Ecd7f4d0feB
+Contract address on Rinkeby for SolnSquareVerifier: 0x0EB9a81A0b0b540beEFc7a41F7c4Fe40488769Bd
 
-Link to OpenSea repository: https://testnets.opensea.io/collection/udacity-capstone-project-ai2dhozlyu
+Link to OpenSea repository: https://testnets.opensea.io/collection/unidentified-contract-eu35jzqksd
 
 All ABI files are in the /eth-contracts/build/contracts subdirectory
 
